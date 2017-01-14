@@ -1,0 +1,12 @@
+{
+  "name": "12306",
+  "version": "1.0.0",
+  "description": "small tool for chinese",
+  "keywords": [
+    "email"
+  ],
+  "author": "WJh",
+  "dependencies": {
+    "nodemailer": "~2.6.0"
+  }
+}
